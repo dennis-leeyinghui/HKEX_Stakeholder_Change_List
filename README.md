@@ -26,3 +26,5 @@ I'm a beginner in Python, so I decided to make a product first, and improve it l
 
 I'm aware that I could have used more functions to have the job done. But confidence is what a beginner needs lol
 *****************************
+
+I've spent a full whole day creating this. Could have done much faster :)
